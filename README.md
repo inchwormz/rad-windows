@@ -61,6 +61,7 @@ Want to add something? See [Contributing](#contributing).
 
 ## Developer Tools
 
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Windows tray overlay and local dashboard for monitoring Codex quota windows and reset times. `MIT`
 - [DevToys](https://github.com/DevToys-app/DevToys) - Swiss army knife for developers. JSON formatter, Base64, JWT decoder, hash generators. `MIT`
 - [Helix](https://github.com/helix-editor/helix) - Modal text editor with built-in LSP and tree-sitter support. `MPL-2.0`
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-source API development platform. Postman alternative. `MIT`
