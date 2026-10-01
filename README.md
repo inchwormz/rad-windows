@@ -137,6 +137,7 @@ Want to add something? See [Contributing](#contributing).
 - [Chris Titus WinUtil](https://github.com/ChrisTitusTech/winutil) - Windows configuration tool for debloating, tweaks, and bulk app install. `MIT`
 - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - HDD/SSD health monitoring with S.M.A.R.T. data and temperature tracking.
 - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Privacy settings dashboard for Windows 10/11. Toggle telemetry, Cortana, ads.
+- [Rain Driver](https://raincleaner.eu/driver) - Backs up installed Windows drivers into a verifiable Driver Passport and restores them after a reinstall.
 - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/) - Microsoft's advanced system tools. Process Explorer, Autoruns, TCPView, and more.
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - All-in-one app for tuning Windows appearance, context menus, and hidden settings.
 
