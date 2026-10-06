@@ -109,6 +109,7 @@ Want to add something? See [Contributing](#contributing).
 ## Productivity
 
 - [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - Scripting language for desktop automation, hotkeys, and macros. `GPL-2.0`
+- [Awayra](https://awayra.github.io/AWAYRA-WPF/) - Windows break reminder with separate eye and movement timers, optional sounds, snooze, and work-hours controls. `GPL-3.0`
 - [Ditto](https://ditto-cp.sourceforge.io/) - Clipboard manager with search and network sync.
 - [Espanso](https://github.com/espanso/espanso) - Cross-platform text expander written in Rust. `GPL-3.0`
 - [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - Quick file search and app launcher. Spotlight for Windows. `MIT`
