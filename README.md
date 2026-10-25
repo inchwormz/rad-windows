@@ -27,6 +27,7 @@ Want to add something? See [Contributing](#contributing).
 - [Cider](https://github.com/ciderapp/Cider) - Apple Music client built with Vue.js and Electron.
 - [Equalizer APO](https://github.com/jaakkopasanen/AutoEq) - System-wide parametric equalizer for Windows.
 - [foobar2000](https://www.foobar2000.org/) - Advanced audio player with customizable UI and plugin system.
+- [Klakk](https://tryklakk.com/en/windows/) - Keyboard sound app with 14 sound packs, a three-day trial, and a one-time paid license.
 - [MusicBee](https://getmusicbee.com/) - Music manager and player with auto-tagging and sync.
 
 ## Backup & Sync
